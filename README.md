@@ -6,7 +6,7 @@
  # Sobre mim <h1>
 * 🎓 Estudante de Ciência de Dados na EBAC
 * 🤖 Apaixonado por IA aplicada à saúde e soluções com impacto social
-* 🧠 Sempre aprendendo: Machine Learning, Python, SQL, e mais!🎓 Estudante de Ciência de Dados na EBAC
+* 🧠 Sempre aprendendo: Machine Learning, Python, SQL, e mais!
  
  ### 🛠️ Tecnologias e Ferramentas <h2>
  * 🐍 Python
