@@ -16,8 +16,9 @@
 
 <div style="display: inline_block"><br>
  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="70" width="90" src=	"https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px ;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
